@@ -1,0 +1,2 @@
+# CryptoCode
+Encryption class
